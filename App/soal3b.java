@@ -1,7 +1,6 @@
 package latihan_uts.App;
 
 import latihan_uts.Data.AOT_Abstract;
-import latihan_uts.Data.AnimeInterface;
 import latihan_uts.Data.BungoStrayDogs_Abstract;
 import latihan_uts.Data.HunterxHunter_Abstract;
 

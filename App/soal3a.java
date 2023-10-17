@@ -1,6 +1,9 @@
 package latihan_uts.App;
 
-import latihan_uts.Data.*;
+import latihan_uts.Data.AnimePolymorphism;
+import latihan_uts.Data.AOT_Polymorphism;
+import latihan_uts.Data.HunterxHunter_Polymorphism;
+import latihan_uts.Data.BungoStrayDogs_Polymorphism;
 
 public class soal3a {
     public static void main(String[] args) {
